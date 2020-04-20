@@ -1,0 +1,244 @@
+{
+	"COMMON": {
+		"SAVE": "Salvare",
+		"CANCEL": "Cancellare",
+		"USA": "USA",
+		"ISRAEL": "Israël",
+		"BULGARIA": "Bulgaria"
+	},
+	"WAREHOUSE_MANAGE": {
+		"TITLE": "Gestire deposito",
+		"NAME": "Nome",
+		"USERNAME": "Username",
+		"PASSWORD": "Password",
+		"COUNTRY": "Paesi",
+		"CITY": "Città",
+		"POSTCODE": "Codice postale",
+		"IS_ACTIVE": "È attivo",
+		"PRODUCTS_MANUFACTURING": "Fabbricazione di prodotti",
+		"CARRIER_REQUIRED": "Trasporto richiesta",
+		"ADDRESS": "Indirizzo",
+		"RIGHT_NOW": "(Adesso)",
+		"CARRIERS": "Trasportatori",
+		"CARRIERS_SPECIFIC": "Usa trasportatori specifiche",
+		"VALIDATION": {
+			"NAME": "È richiesto il nome",
+			"USERNAME": "È necessario nome di utente",
+			"PASSWORD": "Password è necessario",
+			"COUNTRY": "Paese è necessario",
+			"CITY": "Città è necessaria",
+			"STREET": "Via è necessaria",
+			"HOUSE": "Numero di casa è necessario",
+			"POSTCODE": "Codice postale è necessario "
+		},
+		"WIZARD_TITLES": {
+			"DETAILS": "Dettagli",
+			"ACCOUNT": "Conto",
+			"CONTACT_INFO": "Informazioni di contatto ",
+			"LOCATION": "Posizione",
+			"PAYMENT": "Pagamento",
+			"DELIVERY_ZONES": "Aree di consegna"
+		}
+	},
+	"WAREHOUSES_VIEW": {
+		"TITLE": "Magazzini",
+		"DELETE_WAREHOUSES": "Rimuovi selezione",
+		"SHOW_ON_MAP": "Visualizzare sulla mappa",
+		"SMART_TABLE_COLUMNS": {
+			"NAME": "Nome",
+			"EMAIL": "Email",
+			"PHONE": "Telefono",
+			"CITY": "Città",
+			"ADDRESS": "Indirizzo",
+			"ORDERS_QTY": "Ordinare quantità"
+		},
+		"MERCHANTS": {
+			"TRACK_ALL_MERCHANTS": "Seguire tutti i commercianti",
+			"FILTER_MERCHANTS": "Filtrare commercianti",
+			"FILTER_BY_NAME": "Filtrare per nome",
+			"FILTER_BY_CITY": "Filtrare per città",
+			"FILTER_BY_COUNTRY": "Filtrare per paese"
+		}
+	},
+	"WAREHOUSE_VIEW": {
+		"ORDER": {
+			"GIVEN_TO_CARRIER": "dato al cliente",
+			"CANT_PROCESSING_WITHOUT_PRODUCTS": "Impossibile elaborare l’ordine senza i prodotti"
+		},
+		"MUTATION": {
+			"TITLE": "Creare un nuovo magazzino",
+			"NAME": "Nome",
+			"LOGO": "Logo",
+			"IS_ACTIVE": "È attivo",
+			"PRODUCTS_MANUFACTURING": "Fabbricazione di prodotti",
+			"CARRIER_REQUIRED": "Trasportatore sono necessari",
+			"RIGHT_NOW": "Adesso",
+			"PHONE": "Telefono",
+			"EMAIL": "Email",
+			"USERNAME": "Username",
+			"PASSWORD": "Passeword",
+			"COUNTRY": "Paese",
+			"USA": "USA",
+			"ISRAEL": "Israël",
+			"BULGARIA": "Bulgaria",
+			"CITY": "Città",
+			"ADDRESS": "Indirizzo",
+			"POSTCODE": "Codice postale",
+			"COORDINATES": "Recapiti",
+			"AUTO_DETECT_COORDINATES": "Rilevamento automatico di recapiti",
+			"CARRIERS": "Trasportatori",
+			"USE_ONLY_SPECIFIC_CARRIERS": "Usa trasportatori specifiche",
+			"ERRORS": {
+				"NAME_IS_REQUIRED": "È richiesto il nome del magazzino",
+				"NAME_ATLEAST_3_CHARS": "Il nome deve avere almeno 3 caratteri",
+				"NAME_MORE_THAN_255_CHARS": "Il nome non può avere più di 255 caratteri",
+				"LOGO_IS_REQUIRED": "logo è necessario",
+				"INVALID_URL": "Inserisci un URL valido dell’immagine o cerca un file",
+				"PHONE_CONTAINS_ONLY_DIGIT": "Il numero di telefono deve contenere solo un numero",
+				"USERNAME_IS_REQUIRED": "Username è necessario",
+				"PASSWORD_IS_REQUIRED": "Passeword è necessario",
+				"COORDINATES_ARE_REQUIRED": "Tutti recapiti sono necessari",
+				"COUNTRY_IS_REQUIRED": "Paese è necessario"
+			},
+			"WIZARD_TITLES": {
+				"BASIC_INFO": "Informazioni di base",
+				"CONTACT_INFO": "Informazioni di contatto",
+				"LOCATION": "Posizione",
+				"DELIVERY_ZONES": "Aree di consegna"
+			}
+		},
+		"ADD_PRODUCTS": "Aggiungere prodotti",
+		"PRODUCTS": "Prodotti",
+		"ORDER_NUMBER": "Numero di ordine",
+		"CANCELLED": "Cancellato",
+		"WAREHOUSE_STATUS": "Statuto di magazzino",
+		"CARRIER_STATUS": "Statuto di trasportatore",
+		"PAID": "È pagato",
+		"MANAGE_STORE": "Gestire negozio",
+		"TOP_PRODUCTS": "Top prodotti",
+		"PRODUCTS_MANUFACTURING": "Fabbricazione di prodotti",
+		"CARRIER_REQUIRED": "Transportatore sono necessari",
+		"MANAGE_WAREHOUSE": "Gestire magazzino"
+	},
+	"SIMULATION_VIEW": {
+		"SIMULATION": "Simulazione",
+		"PURCHASE_PRODUCTS": "Acquistare prodotti",
+		"CREATE_USER": "Creare un utente",
+		"ORDER_CONFIRM": "Comando confermati",
+		"ORDER_CANCEL": "Comando Annulla",
+		"PRODUCTS": "Prodotti",
+		"ORDER": "Ordinare",
+		"USER_MUTATION": {
+			"TITLE": "Creare un utente",
+			"NAME": "Nome",
+			"EMAIL": "Email",
+			"COUNTRY": "Paese",
+			"CITY": "Città",
+			"USA": "USA",
+			"ISRAEL": "Israël",
+			"BULGARIA": "Bulgaria",
+			"ADDRESS": "Indirizzo",
+			"POSTCODE": "Codice postale",
+			"COORDINATES": "Recapiti",
+			"AUTO_DETECT_COORDINATES": "Rilevamento automatico di recapiti",
+			"ERRORS": {
+				"FIRST_NAME_IS_REQUIRED": "Nome è necessario",
+				"LAST_NAME_IS_REQUIRED": "Cognome è obbligatorio",
+				"EMAIL_IS_REQUIRED": "Email è necessario",
+				"COORDINATES_ARE_REQUIRED": "Recapiti"
+			},
+			"WIZARD_TITLES": {
+				"ADDITIONAL_INFO": "Informazioni supplementari",
+				"LOCATION": "Posizione"
+			}
+		}
+	},
+	"CUSTOMERS_VIEW": {
+		"TITLE": "Clienti",
+		"DELETE_CUSTOMERS": "Rimuovere la selezione",
+		"CREATE_CUSTOMER": "Creare un cliente",
+		"ORDERS_STATISTICS": "Statistiche delle comando",
+		"NUMBER_OF_ORDERS": "Totale delle comando",
+		"CANCELED_ORDERS": "Comandi emesse",
+		"COMPLETED_ORDERS_TOTAL": "Prezzo di tutti gli ordini",
+		"CUSTOMERS_DEVICES": "Dispositivi client",
+		"NOT_INVITED_ONLY": "Non solo invitato ",
+		"SMART_TABLE_COLUMNS": {
+			"NAME": "Nome",
+			"EMAIL": "Email",
+			"PHONE": "Numero di telefono",
+			"COUNTRY": "Paese",
+			"CITY": "Città",
+			"ADDRESS": "Indirizzo",
+			"ORDERS_QTY": "Ordinare quantità",
+			"ACTIONS": "Agisca",
+			"INVITED_DATE": "Data di invito",
+			"STATUS": "Statuto"
+		}
+	},
+	"CARRIERS_VIEW": {
+		"TITLE": "Transportatori",
+		"DELETE_CARRIERS": "Supprimer sélectionnée",
+		"CREATE_CARRIER": "Greare transportatore",
+		"SMART_TABLE_COLUMNS": {
+			"NAME": "Nome",
+			"PHONE": "Numero di telefono",
+			"STATUS": "Statuto",
+			"ADDRESS": "Indirizzo",
+			"DELIVERIES": "Consegne"
+		}
+	},
+	"PRODUCT_TYPE_VIEW": {
+		"TITLE": "Nuovo prodotto",
+		"WIZARD_FORM": {
+			"VALIDATION_MESSAGES": {
+				"TITLE": "Titolo è necessario",
+				"IMAGE": "Immagine è necesseria",
+				"DESCRIPTION": "la descrizione è necessaria",
+				"LANGUAGE": "Linga è necessaria",
+				"PRICE": "Prezzo è necessario",
+				"COUNT": "È richiesto il numero di prodotti"
+			}
+		}
+	},
+	"SHARED": {
+		"FORMS": {
+			"ERRORS": {
+				"FIRST_NAME_REQUIRED": "Nome è necessario",
+				"LAST_NAME_REQUIRED": "Cognome è obbligatorio",
+				"USERNAME_REQUIRED": "Username sono necessario",
+				"PASSWORD_REQUIRED": "Passeword è necessario",
+				"PHONE_REQUIRED": "Numero di telefono è necessario",
+				"LOGO_URL_REQUIRED": "L’URL del logo deve iniziare con 'https’",
+				"IS_ACTIVE": "È richiesto il campo attivo ?",
+				"COUNTRY_REQUIRED": "Paese sono necessari",
+				"CITY_REQUIRED": "Città sono necessari",
+				"STREET_ADDRESS_REQUIRED": "Indirizzo sono necessari",
+				"HOUSE_REQUIRED": "Numero di casa sono necessari",
+				"COORDINATES_REQUIRED": "Recapiti sono necessari",
+				"MUST_CONTAIN_ONLY_LETTERS": "Deve contenere solo lettere"
+			}
+		}
+	},
+	"Manage warehouse": "Gestire i prodotti e gli ordini di magazzino",
+	"Warehouse": "Magazzino",
+	"Create Warehouse": "Creare magazzino",
+	"SIMULATION": "Simulazione",
+	"Purchase products": "Acquistare prodotti",
+	"Manage": "Greare",
+	"Orders": "Comando",
+	"Confirmed": "Confermato",
+	"In Delivery": "È in consegna",
+	"Not Confirmed": "Non confermato",
+	"Not paid": "Non pagato",
+	"Create 100 warehouses": "Creare magazzino",
+	"Cancelled": "Cancellato",
+	"All": "Tutto",
+	"Default Settings": "Impostazioni predefinite",
+	"Products Manufacturing": "Fabricazione di prodotti",
+	"Carrier required before sale": "Trasportatore richiesto prima della vendita",
+	"New Product Type": "Trasportatore richiesto prima della vendita",
+	"Products": "Prodotti",
+	"New Product": "Nuovo prodotto",
+	"OPTIONAL": "Opzionale"
+}
